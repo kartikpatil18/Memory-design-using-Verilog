@@ -27,6 +27,9 @@ The goal of this project is to design and verify a memory system that:
 ├── tb_memory.v     # Testbench for memory
 └── README.md       # Project documentation
 ```
+## Block Diagram
+<img width="916" height="657" alt="image" src="https://github.com/user-attachments/assets/3507f3a8-76e6-408c-b468-1cdf84c10d0b" />
+
 
 ## How to Run
 
