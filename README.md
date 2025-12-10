@@ -1,4 +1,4 @@
-# Memory-design-using-Verilog
+# Single-Port-Memory-design-using-Verilog
 
 ## Project Overview
 
