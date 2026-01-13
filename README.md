@@ -1,8 +1,4 @@
 # Single-Port-Memory-Design-and-Verification-using-Verilog
-# Memory Architecture
-<img width="832" height="703" alt="Screenshot 2026-01-08 135001" src="https://github.com/user-attachments/assets/5a41a5a3-9c91-4b3e-8dba-3befbff5b655" />
-
-
 ## Project Overview
 
 This project implements a **parameterized memory module** in Verilog along with a **testbench** for simulation and verification. The design supports **read/write operations** using a simple **valid–ready handshake** mechanism.
